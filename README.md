@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [TESSERACT-v1.0](https://github.com/debangshumondal06/TESSERACT-v1.0.git)
 
-- 🌱 I’m currently learning **Frameworks, Backend Skills, Polishing Frontend Skills**
+- 🌱 I’m currently learning **Frameworks, Backend, Frontend**
 
-- 👯 I’m looking to collaborate on [DRONACHARYA](https://github.com/debangshumondal06/DRONACHARYA.git)
+- 🤝 I’m looking to collaborate on [DRONACHARYA](https://github.com/debangshumondal06/DRONACHARYA.git)
 
 - 💬 Ask me about **html, python, C, SQL**
 
