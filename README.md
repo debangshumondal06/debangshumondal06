@@ -1,5 +1,5 @@
 
-<pre style="color: #2f6bff; background: #05070b; padding: 16px; overflow-x: auto; font-family: monospace; line-height: 1;">
+<pre style="color: #74a7ff; background: #05070b; padding: 16px; overflow-x: auto; font-family: monospace; line-height: 1;">
                                                                                                    
                                                                                                    
                                            ...............                                         
