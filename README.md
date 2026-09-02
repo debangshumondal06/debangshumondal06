@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debangshu Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [TESSERACT-v1.0](https://github.com/debangshumondal06/TESSERACT-v1.0.git)
+- 🔭 I’m currently working on [ASCII-Studio](https://github.com/debangshumondal06/ASCII-Studio.git)
 
 - 🌱 I’m currently learning **Frameworks, Backend, Frontend**
 
