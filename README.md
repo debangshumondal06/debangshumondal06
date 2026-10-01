@@ -34,7 +34,8 @@
     alt="Debangshu's GitHub Stats"
     height="195"
   />
-
+</p>
+<p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=debangshumondal06&theme=radical&hide_border=false&border_radius=10&locale=en&timezone=Asia%2FKolkata"
     alt="Debangshu's GitHub Streak"
