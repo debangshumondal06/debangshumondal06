@@ -1,3 +1,13 @@
+<div align="center">
+  <!-- Animated Bio -->
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&height=100&lines=AI%2FML+Engineering+Student;Writer+%7C+Author;India+Book+of+Records+Holder;UI%2FUX+Designer+%7C+Creative+Builder;Building+Projects+%26+Learning+Every+Week"
+    alt="Debangshu Mondal animated bio"
+  />
+
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Debangshu Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,8 +18,6 @@
 - 🤝 I’m looking to collaborate on [DRONACHARYA](https://github.com/debangshumondal06/DRONACHARYA.git)
 
 - 💬 Ask me about **html, python, C, SQL**
-
-- 📫 How to reach me **debangshumondal06@gmail.com**
 
 <h2 align="center">Connect with Me</h2>
 
