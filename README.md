@@ -49,6 +49,14 @@
   <img src="https://raw.githubusercontent.com/debangshumondal06/debangshumondal06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
+<h2 align="center">🐱 My GitHub Pet</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/debangshumondal06/debangshumondal06/main/dist/pet.svg" alt="My GitHub Pet" width="100%">
+
+</p>
+
 <!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
