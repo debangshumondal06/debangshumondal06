@@ -1,15 +1,19 @@
 <div align="center">
   <!-- Animated Bio -->
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&height=100&lines=AI%2FML+Engineering+Student;Writer+%7C+Author;India+Book+of+Records+Holder;UI%2FUX+Designer+%7C+Creative+Builder;Building+Projects+%26+Learning+Every+Week"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&height=100&lines=AI%2FML+Engineering+Student;Writer+%7C+Author;India+Book+of+Records+Holder;UI%2FUX+Designer+%7C+Creative+Builder;Building+Projects+%26+Learning+Every+Week"
     alt="Debangshu Mondal animated bio"
   />
-
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Debangshu Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=debangshumondal06&label=Profile%20Views&color=8A2BE2&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 - 🔭 I’m currently working on [ASCII-Studio](https://github.com/debangshumondal06/ASCII-Studio.git)
 
