@@ -1,4 +1,4 @@
-name: My GitHub Pet
+name: My YourTomo cat
 
 on:
   schedule:
@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Follow the current YourTomo action/setup
-      # from its official repository:
-      # prsdx/github-pet
+      - uses: actions/checkout@v4
+
+      - uses: prsdx/github-pet@v1
+        with:
+          username: debangshumondal06
+          timezone-offset-minutes: "330"
