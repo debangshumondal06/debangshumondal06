@@ -11,9 +11,25 @@
 
 - 📫 How to reach me **debangshumondal06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/debangshu mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debangshu mondal" height="30" width="40" /></a>
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:debangshumondal06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-debangshumondal06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/debangshu-mondal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Debangshu%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- X -->
+  <a href="https://x.com/DebangshuMnbfj" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
